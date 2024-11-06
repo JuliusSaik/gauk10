@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>Fuck you</h1>
+    <h1>Joe Biden</h1>
     </div>
   );
 }
